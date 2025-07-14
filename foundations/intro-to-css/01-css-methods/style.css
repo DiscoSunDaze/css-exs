@@ -1,0 +1,22 @@
+/* styles for index.html */
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    color: white;
+    background-color: green;
+    font-size: 18px;
+}
+
+button {
+    background-color: orange;
+    font-size: 18px;
+
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
