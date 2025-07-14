@@ -1,20 +1,20 @@
  /* styles for index.html */
-  #two {
+  #num2 {
     color: blue;
     font-size: 36px;
   }
 
-  .adjust-fs {
+  .change-size {
     font-size: 24px;
   }
  
-  #four {
+  #num4 {
     background-color: lightgreen;
     font-weight: bold;
   }
  
  
-  .odd {
+  .same {
     color: black;
     background-color: lightpink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
